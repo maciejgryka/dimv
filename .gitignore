@@ -1,0 +1,14 @@
+ipsch/
+dimv/GeneratedFiles/
+dimv/Debug/
+dimv/Release/
+dimv/img/
+*.exe
+*.opensdf
+*.bin
+*.obj
+*.user
+*.props
+*.suo
+*.pdb
+*.sdf
