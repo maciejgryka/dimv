@@ -1,5 +1,5 @@
 dual image viewer
 
-Quick and dirty app to visually compare to similar images.
+Quick and dirty app in C++ and Qt to visually compare two images.
 
 m.gryka@cs.ucl.ac.uk
