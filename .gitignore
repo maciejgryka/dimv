@@ -1,8 +1,9 @@
-ipsch/
+ipch/
 dimv/GeneratedFiles/
 dimv/Debug/
 dimv/Release/
 dimv/img/
+dimv_setup/
 *.exe
 *.opensdf
 *.bin
